@@ -1,0 +1,15 @@
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.csproj.AssemblyReference.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.AssemblyInfoInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.AssemblyInfo.cs
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.csproj.CoreCompileInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\bin\Debug\net7.0\BirthdayDate.exe
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\bin\Debug\net7.0\BirthdayDate.deps.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\bin\Debug\net7.0\BirthdayDate.runtimeconfig.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\bin\Debug\net7.0\BirthdayDate.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\bin\Debug\net7.0\BirthdayDate.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\refint\BirthdayDate.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\BirthdayDate.genruntimeconfig.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\BirthdayDate\BirthdayDate\obj\Debug\net7.0\ref\BirthdayDate.dll
